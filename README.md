@@ -43,8 +43,8 @@ pip install -e .
 ```
 
 ## Training and Prediction
-During the experiment, we primarily utilize the PASCAL VOC dataset and the Foggy Cityscapes dataset.
-We primarily focus on evaluating the dataset after it has been processed by Dehazeformer for dehazing.
+In the experiment, we mainly use the PASCAL VOC dataset and the Foggy Cityscapes dataset, 
+with a focus on detecting images from the Foggy Cityscapes dataset after they have been dehazed by Dehazeformer.
 
 ### Training
 ```
