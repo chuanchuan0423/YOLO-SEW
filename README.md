@@ -47,7 +47,7 @@ We primarily focus on evaluating the dataset after it has been processed by Deha
 
 ### Training
 ```
-yolo task=detect mode=train model=model_name data=dataset name epochs=300 batch=16
+yolo task=detect mode=train model=model_name data=dataset_name epochs=300 batch=16
 yolo task=detect mode=train model=yolov8-efficientViT-sim-voc-2024.yaml data=VOC.yaml epochs=300 batch=16
 ```
 
