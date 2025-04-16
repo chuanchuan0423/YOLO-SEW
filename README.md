@@ -43,6 +43,7 @@ pip install -e .
 ```
 
 ## Training and Prediction
+During the experiment, we primarily utilize the PASCAL VOC dataset and the Foggy Cityscapes dataset.
 We primarily focus on evaluating the dataset after it has been processed by Dehazeformer for dehazing.
 
 ### Training
